@@ -1,0 +1,30 @@
+mobTelID,manufacturer,model,price,monthlyPrice
+,Apple,iPhone 18 Pro 256GB,1399,58.29
+,Apple,iPhone 18 Pro Max 256GB,1549,64.54
+,Apple,iPhone 17 256GB,999,41.63
+,Apple,iPhone 17e 256GB,749,31.21
+,Apple,iPhone Air 256GB,1199,49.96
+,Samsung,Galaxy S26 256GB,999,41.63
+,Samsung,Galaxy S26+ 256GB,1199,49.96
+,Samsung,Galaxy S26 Ultra 256GB,1499,62.46
+,Samsung,Galaxy S26 FE 128GB,699,29.13
+,Samsung,Galaxy A57 5G 128GB,499,20.79
+,Samsung,Galaxy A37 5G 128GB,379,15.79
+,Samsung,Galaxy Z Fold8 256GB,1999,83.29
+,Samsung,Galaxy Z Flip8 256GB,1199,49.96
+,Google,Pixel 11 128GB,899,37.46
+,Google,Pixel 11 Pro 128GB,1099,45.79
+,Google,Pixel 11 Pro XL 256GB,1299,54.13
+,Google,Pixel 11 Pro Fold 256GB,1899,79.13
+,Xiaomi,Xiaomi 17 256GB,899,37.46
+,Xiaomi,Xiaomi 17 Ultra 512GB,1499,62.46
+,Nothing,Phone (3) 256GB,699,29.13
+,Sony,Xperia 1 VIII 256GB,1499,62.46
+,Sony,Xperia 10 VIII 128GB,449,18.71
+,Sony,Xperia 1 VII 256GB,1299,54.13
+,Sony,Xperia 10 VII 128GB,399,16.63
+,Google,Pixel 10a 128GB,549,22.88
+,Google,Pixel 10 128GB,799,33.29
+,Google,Pixel 10 Pro 128GB,999,41.63
+,Google,Pixel 10 Pro XL 256GB,1199,49.96
+,Google,Pixel 10 Pro Fold 256GB,1799,74.96
